@@ -1,0 +1,19 @@
+{
+  "name": "react_project_dev",
+  "version": "1.0.0",
+  "description": "initial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nadhiya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadhiya07/namaste-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nadhiya07/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Nadhiya07/namaste-react#readme"
+}
